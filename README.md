@@ -1,0 +1,1 @@
+It is not able to download js file of StackOverflow and StackExchange, so I created this extension to abort its downloading and replace it with the local one.
