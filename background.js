@@ -15,7 +15,7 @@
   {
     urls: [
       "http://cdn.sstatic.net/Js/stub.en.js?*",
-      "http://cdn.sstatic.net/stackoverflow/all.css?*",
+      "http://cdn.sstatic.net/Sites/stackoverflow/all.css?*",
       "http://cdn.sstatic.net/ux/all.css?*"
     ]
   },
